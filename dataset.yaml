@@ -1,0 +1,5 @@
+train: C:/Users/Arun Desineni/Desktop/content/dataset/train
+val: C:/Users/Arun Desineni/Desktop/content/dataset/valid
+
+nc: 1  # number of classes
+names: ['pot_hole']
